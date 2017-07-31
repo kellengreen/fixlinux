@@ -1,0 +1,4 @@
+#!/bin/bash
+killall -9 ssh
+killall -9 ssh-agent
+

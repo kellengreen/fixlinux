@@ -1,0 +1,3 @@
+#!/bin/bash
+ssh -fqN -D 1080 dunkirk-us
+
