@@ -2,6 +2,8 @@
 # GIT BRANCH #
 ##############
 
+source /Library/Developer/CommandLineTools/usr/share/git-core/git-completion.bash
+
 YELLOW="\[\033[1;33m\]"
 GREEN="\[\033[1;32m\]"
 BLUE="\[\033[1;34m\]"
