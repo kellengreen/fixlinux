@@ -1,3 +1,4 @@
 sudo apt install git -y
 ssh-keygen -t rsa -b 4096
 git config --global user.email "me@kellengreen.com"
+git config --global core.editor "vim"
